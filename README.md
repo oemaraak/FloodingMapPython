@@ -10,7 +10,7 @@ School Project: Prototype of an interactive map displaying elevation and areas i
 - Shades the "boxes" in the grid based on the elevation and if it's within a threshold (IN PROGRESS)
 
 ### Links:
-Coordinates can be found using e.g. https://www.gps-coordinates.net/
+Coordinates can be found using e.g. https://www.gps-coordinates.net/<br>
 Open-Elevation API: https://open-elevation.com/
 
 ### To-Do:
